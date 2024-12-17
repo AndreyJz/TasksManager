@@ -102,6 +102,7 @@ Ejemplo de archivo JSON para importar tareas:
 ├── requirements.txt      # Dependencias del proyecto
 ├── data/                 # Carpeta para archivos JSON
 └── assets/               # Imágenes para capturas de pantalla
+    └── SonarQube.pdf     # Evidencia del Scanner
 ```
 
 ---
